@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 CSE (AI & ML) Student <br>
-  🚀 Passionate Web Developer <br>
+  🚀 Web Developer <br>
   🌍 Future Goal: Freelancing + Foreign Career
 </p>
 
